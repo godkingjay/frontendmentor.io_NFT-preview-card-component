@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-nft-preview-card-component-Qm0zDGNx3p)
-- Live Site URL: [Add live site URL here](https://godkingjay.github.io/frontendmentor.io_NFT-preview-card-component/)
+- Solution URL: ---> [SOLUTION](https://www.frontendmentor.io/solutions/responsive-nft-preview-card-component-Qm0zDGNx3p)
+- Live Site URL: ---> [LIVE SITE](https://godkingjay.github.io/frontendmentor.io_NFT-preview-card-component/)
 
 ## My process
 
